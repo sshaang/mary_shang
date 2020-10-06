@@ -1,4 +1,4 @@
-﻿Team Random: Ethan Machleder, Mary Shang, Jessica Yeung
+Team Random: Ethan Machleder, Mary Shang, Jessica Yeung
 SoftDev
 K08 -- Cross Pollination and Virtual Insanity
 2020-10-06
@@ -12,12 +12,9 @@ as a directory called "myherozero" with subsequent directories inside it contain
 supporting files.
 
 
-
-
 Virtual environments are used to run modules in a specific version of Python. 
 Without them, it would not be possible to run two different modules with different
 requirements with the same Python installation.
- 
 
 
 Sources:
