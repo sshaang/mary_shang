@@ -4,7 +4,7 @@
 # 2020-10-13
 
 from flask import Flask
-app = Flask(__name__
+app = Flask(__name__)
 
 @app.route("/") # refers to the root route
 def hello_world():
